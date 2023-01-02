@@ -1,0 +1,141 @@
+* {
+    font-family: "Calibre","Inter","San Francisco","SF Pro Text",-apple-system,system-ui,sans-serif;
+   }
+
+p {
+    color: white !important;
+}
+
+.col img {
+    text-align: center;
+}
+.col-lg-5 img {
+    border: 10px red solid !important;
+    border-radius: 15px;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 50px;
+
+}
+
+.col-lg-7 {
+    text-align: left !important;
+    margin-bottom: 50px;
+
+}
+
+body {
+    background-color: #0a192f !important;
+    ;
+}
+
+.jumbotron {
+    padding: 100px 0px 150px 0px !important;
+    background-color:#0a192f;
+    margin-top: -10px;
+    margin-bottom: 0 !important;
+    color: white !important;
+  }
+
+  .jumbotron img {
+    float: right;
+  }
+
+.about {
+    margin-bottom: 100px;
+}
+
+
+  
+
+
+  .navbar {
+    background-color: #0a192f !important;
+    color: white !important;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 150px;
+    position: static;
+  }
+
+  .navbar-nav {
+    margin-left: auto;
+    margin-right: 0 !important;
+    font-size: larger !important;
+  }
+
+  .nav-item {
+    color: white !important;
+    margin-left: 15px;
+    margin-right: 15px;
+    font-weight: bold;
+  }
+
+  .nav-item:hover {
+    color:red !important;
+  }
+
+  .navbar-brand {
+    color: white !important;
+    background-color: #0a192f !important;
+    font-size: 50px !important;
+    padding-left: 50px;
+  }
+
+  .card {
+    border: none !important;
+  }
+
+  .text1 {
+    color: red;
+    font-weight: bold;
+    }
+    
+    .row {
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.navbar-light .navbar-toggler {
+    border-color: white !important;
+    color: white !important;
+}
+
+.underline {
+    border-bottom: 5px red solid;
+}
+
+
+
+  .about-me {
+    text-align: center;
+    color: white !important;
+    margin-bottom: 75px;
+
+
+  }
+
+  .work-title {
+    text-align: center;
+    color: white !important;
+    margin-bottom: 50px;
+
+  }
+
+  .bio-title, .bio-text 
+  {
+    margin-bottom: 20px;
+    color: white !important;
+
+  }
+
+  .bio-title {
+    font-weight: bold;
+  }
+
+  .card-body {
+    background-color: #0a192f;
+  }
+  
+  
+  
