@@ -15,4 +15,4 @@
 ![Screenshot](./images/heropage.png)
 ![Screenshot](./images/aboutpage.png)
 ![Screenshot](./images/workpage.png)
-![Screenshot](./images/contactpage.png)
+![Screenshot](./images/contact.png)
