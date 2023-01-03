@@ -12,10 +12,10 @@ p {
 .col-lg-5 img {
     border: 10px red solid !important;
     border-radius: 15px;
+    margin-bottom: 50px;
     max-width: 100%;
     height: auto;
-    margin-bottom: 50px;
-
+    margin-left: 60px;
 }
 
 .col-lg-6 {
