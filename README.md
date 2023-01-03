@@ -12,4 +12,4 @@
 
 # Screenshots
 
-(./images/heropage.png)
+![Screenshot](./images/heropage.png)
