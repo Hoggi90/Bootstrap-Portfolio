@@ -12,7 +12,7 @@
 
 # Screenshots
 
-![Screenshot](./images/heropage.png)
-![Screenshot](./images/aboutpage.png)
-![Screenshot](./images/workpage.png)
-![Screenshot](./images/contact.png)
+![Screenshot](./assets/images/heropage.png)
+![Screenshot](./assets/images/aboutpage.png)
+![Screenshot](./assets/images/workpage.png)
+![Screenshot](./assets/images/contact.png)
