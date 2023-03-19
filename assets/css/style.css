@@ -1,6 +1,6 @@
 * {
-    font-family: "Calibre","Inter","San Francisco","SF Pro Text",-apple-system,system-ui,sans-serif;
-   }
+    font-family: "Calibre", "Inter", "San Francisco", "SF Pro Text", -apple-system, system-ui, sans-serif;
+}
 
 p {
     color: white !important;
@@ -9,6 +9,7 @@ p {
 .col img {
     text-align: center;
 }
+
 .col-lg-5 img {
     border: 10px red solid !important;
     border-radius: 15px;
@@ -31,15 +32,15 @@ body {
 
 .jumbotron {
     padding: 100px 0px 150px 0px !important;
-    background-color:#0a192f;
+    background-color: #0a192f;
     margin-top: -10px;
     margin-bottom: 0 !important;
     color: white !important;
-  }
+}
 
 .jumbotron img {
     float: right;
-  }
+}
 
 .about {
     margin-bottom: 100px;
@@ -67,7 +68,7 @@ body {
     font-weight: bold;
     display: inline-block;
     position: relative;
-    
+
 }
 
 .nav-item::after {
@@ -82,7 +83,7 @@ body {
     transform-origin: bottom right;
     transition: transform 0.25s ease-out;
 }
-  
+
 .nav-item:hover::after {
     transform: scaleX(1);
     transform-origin: bottom left;
@@ -111,11 +112,11 @@ body {
 
 .card img {
     -webkit-filter: grayscale(1);
- }
+}
 
 .card img:hover {
     -webkit-filter: grayscale(0);
- }
+}
 
 .card:hover {
     border: none !important;
@@ -134,7 +135,7 @@ body {
     color: red;
     font-weight: bold;
 }
-    
+
 .row {
     align-items: center !important;
     justify-content: center !important;
@@ -160,7 +161,8 @@ body {
 
 }
 
-.bio-title, .bio-text {
+.bio-title,
+.bio-text {
     margin-bottom: 20px;
     color: white !important;
 
@@ -173,6 +175,7 @@ body {
 .card-body {
     background-color: #0a192f;
 }
+
 .col-md-6 {
     margin-bottom: 50px;
 }
@@ -184,11 +187,11 @@ footer {
 footer .lead {
     text-align: center;
 }
-  
+
 .footer a {
     color: #fff;
 }
-  
+
 .footer-info p {
     margin: 0;
     font-size: 20px;
@@ -198,23 +201,37 @@ a {
     text-decoration: none;
     color: white !important;
 }
- 
+
 a:hover {
     text-decoration: none;
     color: white !important;
 }
 
+.btn-primary:hover {
+    box-shadow: 0 0 10px rgb(255, 255, 255);
+}
+
+.btn-sm {
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+}
+
+.col-md-4 {
+    width: 50%;
+}
+
+
 .footer-info {
-    
+
     display: flex;
     flex-direction: row;
     text-align: center;
-    margin-bottom: 250px;
+    margin-bottom: 100px;
 }
 
 .copytext {
+    margin-top: 30px;
     color: rgb(94, 91, 91) !important;
     text-align: center;
     font-size: 12px;
 }
-  
